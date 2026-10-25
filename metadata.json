@@ -1,0 +1,6 @@
+{
+  "name": "ReCircuit",
+  "description": "Smart Electronic Device Reuse, Collection and Recycling Marketplace connecting individual device owners with verified repair shops, refurbishers, and authorized e-waste recyclers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
